@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #097df2;
+}
+
+.card {
+    border-radius: 10px;
+    background: white;
+}
+
+input[type="file"], input[type="text"] {
+    padding: 10px;
+    font-size: 1rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+td {
+    text-align: center;
+}
+
+.alert {
+    text-align: center;
+    font-size: 1.1rem;
+}
